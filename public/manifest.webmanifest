@@ -1,0 +1,20 @@
+{
+    "name": "Images App",
+    "short_name": "Images App",
+    "icons": [
+        {
+            "src": "/icons/icon-192x192.png",
+            "size": "192x192",
+            "type": "img/png"
+        },
+        {
+            "src": "/icons/icon-512x512.png",
+            "size": "512x512",
+            "type": "img/png"
+        }
+    ],
+    "start_url": "/",
+    "background_color": "#808080",
+    "display": "standalone",
+    "theme_color": "#808080"
+}
